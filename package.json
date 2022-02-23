@@ -1,0 +1,23 @@
+{
+  "name": "dockernodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Davidcastel26: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@github.com/Davidcastel26/dockernodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davidcastel26/dockernodejs/issues"
+  },
+  "homepage": "https://github.com/Davidcastel26/dockernodejs#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
